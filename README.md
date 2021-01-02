@@ -1,6 +1,5 @@
-# Machine-Learning & EDA projects
+# University World Rankings - EDA
 
-Branches:
-1. Electronics - EDA & ML
-2. Bank Churn Rate - EDA & ML
-3. University World Rankings - EDA
+Raw Data: cWur.csv
+
+Python Notebook: Final Project 2_Questions (Khian Guan).ipynb
