@@ -1,6 +1,4 @@
-# Machine-Learning & EDA projects
+# Bank Churn Rate - EDA & ML
 
-Branches:
-1. Electronics - EDA & ML
-2. Bank Churn Rate - EDA & ML
-3. University World Rankings - EDA
+Raw Dataset: Churn_Modelling.csv
+Python Notebook: ML Final Project Notebook (Khian Guan).ipynb
