@@ -1,5 +1,4 @@
-# Machine-Learning
-Projects that i have done
+# Machine-Learning & EDA projects
 
 Branches:
 1. Electronics - EDA & ML
